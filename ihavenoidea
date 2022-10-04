@@ -1,0 +1,44 @@
+[
+{
+  "title": "ပေါက်စီလှလှ",
+  "thumbnail": "https://i.imgur.com/GZ5TlYq.jpg",
+  "code": "redirect",
+  "action": "http://bit.ly/AKateShorts"
+},
+{
+  "title": "ဇစ်စိ့မရတော့လို့",
+  "thumbnail": "https://img.youtube.com/vi/R0CwiwvIwBo/sddefault.jpg",
+  "code": "web",
+  "action": "data:text/html, \u003ciframe width\u003d\"100%\" height\u003d\"\" src\u003d\"http://www.youtube.com/embed/R0CwiwvIwBo\" frameborder\u003d\"0\"\u003e\u003c/iframe\u003e"
+},
+{
+  "title": "ကလေးလိုးကား",
+  "thumbnail": "https://serverintermake.site/cgbpto/31.jpg",
+  "code": "mp4",
+  "action": "https://serverintermake.site/cgb/b31.mp4"
+},
+{
+    "title": "အဝါရောင်လေး",
+    "thumbnail": "https://serverintermake.site/cgbpto/12.jpg",
+    "code": "mp4",
+    "action": "https://serverintermake.site/cgb/b12.mp4"
+  },
+  {
+    "title": "Beautiful",
+    "thumbnail": "https://serverintermake.site/cgbpto/1.jpg",
+    "code": "mp4",
+    "action": "https://serverintermake.site/cgb/b3.mp4"
+  },
+  {
+    "title": "အငုံးလေး မြင်လား",
+    "thumbnail": "https://serverintermake.site/cgbpto/39.jpg",
+    "code": "mp4",
+    "action": "https://serverintermake.site/cgb/b39.mp4"
+  },
+  {
+  "title": "ကလေးလိုးကားသီးသန့်",
+  "thumbnail": "https://serverintermake.site/cgbpto/6.jpg",
+  "code": "web",
+  "action": "https://pharaohmod.github.io/blue-channel/baby.html"
+}
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "ZEE CINEMA HD",
+    "code": "m3u8",
+    "action": "http://208.115.215.42/ZEE_CInema_HD/index.m3u8",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8ao0em1lZbIJXx26TQXo1-IIdFUNNMaSglBXsiQw\u003ds900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Star Gold",
+    "code": "m3u8",
+    "action": "http://208.115.215.42/Utsav_Gold_HD/index.m3u8",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8ay4QNxwNI6AD-9QERBAXXYDDALoxuhF0FxUGTAg\u003ds900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Channel K",
+    "code": "m3u8",
+    "action": "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8",
+    "thumbnail": "https://yt3.ggpht.com/DugWR_83oapzFPfIX4Txl-eqSyGocPfuoqeALTVkQge-RnnWm-IYzE6sGAo4UhK-OAtXShq56vQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+  "title": "Mahar",
+  "code": "m3u8",
+  "action": "https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8",
+  "thumbnail": "https://play-lh.googleusercontent.com/EvzFsHzdsO_B0U97VR9hyJday6GsjZg84BqX_vOSM9Cm6-Kn2iYDEmGSafYvItKhWT0"
+},
+{
+  "title": "Channel 7",
+  "code": "m3u8",
+  "action": "https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8",
+  "thumbnail": "https://i.imgur.com/aMxwLv9.jpg"
+}
+]
