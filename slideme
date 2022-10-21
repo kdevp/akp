@@ -33,17 +33,5 @@
   "thumbnail": "https://i.imgur.com/qv6IHfI.jpg",
   "code": "mp4",
   "action": "https://www.mediafire.com/file/tjfq0zzsh1lk708/InShot_20220930_144356878.mp4/file"
-},
-{
-  "title": "MM Sport Live",
-  "thumbnail": "https://i.imgur.com/fQ5ss15.jpg",
-  "code": "redirect",
-  "action": "https://bit.ly/3SJXqgm"
-},
-{
-  "title": "X-TUBE",
-  "thumbnail": "https://i.imgur.com/g5hWR9I.jpg",
-  "code": "cweb",
-  "action": "https://video.xtubemm.com"
 }
 ]
