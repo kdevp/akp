@@ -1,4 +1,10 @@
-[
+[ 
+{
+"title": "ဝိပါက အပိုင်း(၁)",
+    "code": "yt",
+    "action": "https://youtu.be/KWyj-ntabpU",
+"thumbnail":""
+ },
   {
     "title": "ZEE CINEMA HD",
     "code": "m3u8",
