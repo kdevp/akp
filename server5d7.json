@@ -33,7 +33,7 @@
   "slider": "https://ngithub.com/kdevp/akp/raw/main/slideme",
 "noti": "",
 "coltext":"VPNချိတ်ဆက်အသုံးပြသည့်အခါ USမှာထားတာ အကောင်းဆုံးဖြစ်ပါတယ်...VPNချိတ်မထားပါက တစ်ချို့functionများ သုံးလို့ရမည်မဟုတ်ပါ(ဥပမာ Downloadမရခြင်း)... ပိုမိုကောင်းမွန်စွာအသုံးပြုနိုင်ရန် VPNချိတ်ဆက်ထားပါ... ",
-"hg1title":"TVရုပ်သံလိုင်းများ ",
+"hg1title":"Live TV Channel",
 "ishg1visible":true,
 "hg1server":"https://github.com/kdevp/akp/raw/main/col.json",
 "hg2title":"Adult Videos(over 18) ",
