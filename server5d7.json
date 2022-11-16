@@ -47,5 +47,7 @@
 "hg4server":"https://github.com/kdevp/akp/raw/main/allkarproxyz.json",
 "gamelist":"https://github.com/PharaohMod/AllKar-Pro/raw/main/games",
 "updatifyApi":"https://nerbly.com/updatify/apiv1/files/AKP_947907917_ZCFoGIm8hLW75kB7rgEnOwadqCr1.json",
-"showUpdatify": true
+"showUpdatify": true,
+"showExtra":true,
+"extraServer":""
 }
