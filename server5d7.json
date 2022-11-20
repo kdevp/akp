@@ -48,6 +48,6 @@
 "gamelist":"https://github.com/PharaohMod/AllKar-Pro/raw/main/games",
 "updatifyApi":"https://nerbly.com/updatify/apiv1/files/AKP_947907917_ZCFoGIm8hLW75kB7rgEnOwadqCr1.json",
 "showUpdatify": true,
-"showExtra":true,
+"showExtra": false,
 "extraServer":"https://github.com/kdevp/extra/raw/main/extraserver.json"
 }
