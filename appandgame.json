@@ -12,19 +12,5 @@
     "description": "AKP VPNကို မည်သည့် ဆင်းကဒ်နှင့်မဆို အခမဲ့ ချိတ်ဆက်အသုံးပြုနိုင်ပါတယ်။(အင်တာနက်freeရတာကို ပြောတာ မဟုတ်ပါ)\nMytel Business Planဝယ်ထားတဲ့ sim cardတွေ အသုံးပြုတယ်ဆိုရင် AKP VPNထဲက Mytel Business serverတွေကို ချိတ်ဆက်အသုံးပြုမယ်ဆိုရင် mbလုံးဝမလျော့ဘဲ လိုင်းကောင်းကောင်းနဲ့ အသုံးပြုနိုင်မှာဖြစ်ပါတယ်။\nအသုံးပြုရလွယ်ကူပြီး internet speedအရမ်းမြန်တဲ့ AKP VPNကို ဖုန်းထဲမှာ အခုပဲ installလုပ်ထားလိုက်ပါ။\n\nAKP VPNရယူရန်👇👇\nhttp://bit.ly/AKPVPN",
     "code": "cweb",
     "action": "http://bit.ly/AKPVPN"
-  },
-  {
-  "title": "အပြာစာအုပ်များ",
-  "thumbnail": "https://i.imgur.com/Jn8rFxB.jpg",
-  "description": "အောက်ကlinkကနေတဆင့် အပြာစာအုပ်များ စိတ်ကြိုက် ဖတ်နိုင်ပါတယ်\nhttps://www.allkarpro.xyz",
-  "code": "cweb",
-  "action": "https://www.allkarpro.xyz"
-},
-{
-  "title": "🔴 အောင်လအန်ဆန်း လက်ဝှေ့ပွဲ Live",
-  "thumbnail": "https://telegra.ph/file/b2322541b073411c80af7.jpg",
-  "description": "အောင်လအန်ဆန်းလက်ဝှေ့ပွဲကို အောက်ကlinkကနေလည်း တိုက်ရိုက် ဝင်ရောက်ကြည့်ရှု့နိုင်ပါတယ်\nhttps://www.allkarpro.xyz/2022/11/blog-post_99.html",
-  "code": "yt",
-  "action": "https://youtu.be/AEUaYjAY4Og"
-}
+  }
 ]
