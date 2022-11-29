@@ -53,7 +53,7 @@
 "showExtra": true,
 "extraServer":"https://github.com/kdevp/extra/raw/main/extraserver.json",
 "feed":"https://github.com/kdevp/feed/raw/main/5d9.json",
-"r1coin":1000,
-"r2coin":5,
+"r1coin":20,
+"r2coin":20,
 "mov":"https://github.com/kdevp/movies/raw/main/mov.json"
 }
