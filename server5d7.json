@@ -52,5 +52,7 @@
 "showUpdatify": true,
 "showExtra": true,
 "extraServer":"https://github.com/kdevp/extra/raw/main/extraserver.json",
-"feed":"https://github.com/kdevp/feed/raw/main/5d9.json"
+"feed":"https://github.com/kdevp/feed/raw/main/5d9.json",
+"r1coin":1000,
+"r2coin":5
 }
