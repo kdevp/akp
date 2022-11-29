@@ -28,18 +28,5 @@
   "code": "m3u8",
   "action": "https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8",
   "thumbnail": "https://i.imgur.com/aMxwLv9.jpg"
-},
-{
-  "title": "🔴 လက်ဝှေ့ပွဲ Live",
-  "thumbnail": "https://telegra.ph/file/b2322541b073411c80af7.jpg",
-  "description": "အောင်လအန်ဆန်းလက်ဝှေ့ပွဲကို အောက်ကlinkကနေလည်း တိုက်ရိုက် ဝင်ရောက်ကြည့်ရှု့နိုင်ပါတယ်\nhttps://www.allkarpro.xyz/2022/11/blog-post_99.html",
-  "code": "yt",
-  "action": "https://youtu.be/AEUaYjAY4Og"
-},
-{
-  "title": "⚽ Live",
-  "thumbnail": "https://telegra.ph/file/28e9b2a1a016b6f73d5d6.jpg",
-  "code": "m3u8",
-  "action": "http://89.187.175.143:80/3056/index.m3u8"
 }
 ]
