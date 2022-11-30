@@ -53,8 +53,8 @@
 "showExtra": true,
 "extraServer":"https://github.com/kdevp/extra/raw/main/extraserver.json",
 "feed":"https://github.com/kdevp/feed/raw/main/5d9.json",
-"r1coin":20,
-"r2coin":20,
+"r1coin":15,
+"r2coin":15,
 "mov":"",
 "serverKey":"AAAAGsEiXlg:APA91bHePE1Kq4rMOKV_8vTWaM5f8kx8mcrmdMtBND0lVpkw0tz90sB2-_HNezkTtnpy9ZzTC2vKG9_0eKv30FSqXvzmYfRpZwC_BcoMLhqlM05W29auYylMhrIlTZab7dSE5Gq5_PZQ"
 }
