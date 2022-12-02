@@ -3,7 +3,7 @@
 "cVer":6.0,
 "uurl":"https://play.google.com/store/apps/details?id=com.allkar.pro",
 "debugs":"",
-"showUpdate":true,
+"showUpdate":false,
   "showToast": false,
   "showStartApp": true,
   "startapp": "206403567",
