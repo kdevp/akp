@@ -59,6 +59,6 @@
 "mov":"",
 "hideAd":false;
 "reqIP":"https://api.myip.com",
-"bannedCC":"MM, TH, MY",
+"bannedCC":"MM",
 "serverKey":"AAAAGsEiXlg:APA91bHePE1Kq4rMOKV_8vTWaM5f8kx8mcrmdMtBND0lVpkw0tz90sB2-_HNezkTtnpy9ZzTC2vKG9_0eKv30FSqXvzmYfRpZwC_BcoMLhqlM05W29auYylMhrIlTZab7dSE5Gq5_PZQ"
 }
