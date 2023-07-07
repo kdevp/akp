@@ -1,10 +1,10 @@
 {
 "appTitle":"AKP TV",
 "cVer":6.2,
-"uurl":"https://bit.ly/40m6LPn",
+"uurl":"http://bit.ly/bluekar",
 "debugs":"",
-"whatsnew":"အသုံးပြုရပိုမိုရိုးရှင်းလွယ်ကူသော AKP TV 6.2သို့ ပြောင်းလဲ Updateပေးထားပါတယ်။ မလိုအပ်သော tabများအားလုံးဖြုတ်ပစ်လိုက်ပြီး ငွေထုတ်ဖို့ တင်ထားသူများအားလည်း ငွေထုတ်ပေးသွားမှာဖြစ်ပါတယ်။ ကျေးဇူးပြု၍ updateလုပ်ပေးပါ။",
-"showUpdate": false,
+"whatsnew":"အသုံးပြုရပိုမိုရိုးရှင်းလွယ်ကူသော AKP TV 6.2သို့ ပြောင်းလဲ Updateပေးထားပါတယ်။ ကျေးဇူးပြု၍ updateလုပ်ပေးပါ။",
+"showUpdate": true,
   "showToast": false,
   "showStartApp": false,
   "startapp": "206403567",
