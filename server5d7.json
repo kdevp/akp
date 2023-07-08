@@ -39,7 +39,7 @@
 "hg1title":"Live TV Channel",
 "ishg1visible":true,
 "hg1server":"https://github.com/kdevp/akp/raw/main/col.json",
-"hg2title":"မြန်မာအောကားများ ",
+"hg2title":"မြန်မာ၊ ကိုရီးယား၊ ဂျပန်၊ တရုတ်၊ နိုင်ငံတကာ အောကားများ ",
 "ishg2visible": true,
 "hg2server":"https://github.com/kdevp/akp/raw/main/file.json",
 "hg3title":"Myanmar Movies ",
