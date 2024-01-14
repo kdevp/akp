@@ -49,7 +49,7 @@
   "ishg3visible": true,
   "hg3server": "https://github.com/kdevp/m4/raw/main/101%25love.json",
   "hg4title": "App & Game ",
-  "ishg4visible": true,
+  "ishg4visible": false,
   "hg4server": "https://github.com/kdevp/akp/raw/main/appandgame.json",
   "gamelist": "https://github.com/PharaohMod/AllKar-Pro/raw/main/games",
   "updatifyApi": "https://nerbly.com/updatify/apiv1/files/AKP_947907917_ZCFoGIm8hLW75kB7rgEnOwadqCr1.json",
