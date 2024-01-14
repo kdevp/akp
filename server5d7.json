@@ -68,5 +68,10 @@
   "vip_features": "-ကြော်ညာမပါ\n-ဇာတ်ကားအကုန်ကြည့်ရ ဒေါင်းလုတ်ဆွဲ၍ရ",
   "vip_users": "https://raw.githubusercontent.com/kdevp/akp/main/vip.json",
   "customAdThumbnail": "",
-  "customAdUrl": ""
+  "customAdUrl": "",
+  "local_banner_ad": "",
+  "local_banner_ad_url": "",
+  "local_banner_4dtail": "",
+  "local_banner_4dtail_url": "",
+  "local_interstitial_url": ""
 }
