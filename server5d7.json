@@ -43,7 +43,7 @@
   "ishg1visible": true,
   "hg1server": "https://github.com/kdevp/akp/raw/main/col.json",
   "hg2title": "ဖောင်းဒိုင်းဗီဒီယိုများ",
-  "ishg2visible": true,
+  "ishg2visible": false,
   "hg2server": "https://github.com/kdevp/akp/raw/main/file.json",
   "hg3title": "Myanmar Movies ",
   "ishg3visible": true,
@@ -71,7 +71,7 @@
   "customAdUrl": "",
   "local_banner_ad": "https://channelmyanmar.org/wp-content/uploads/2023/08/USUN789.gif",
   "local_banner_ad_url": "",
-  "local_banner_4dtail": "https://channelmyanmar.org/wp-content/uploads/2023/08/USUN789.gif",
+  "local_banner_4dtail": "https://channelmyanmar.org/wp-content/uploads/2023/11/jdbYG.gif",
   "local_banner_4dtail_url": "",
   "local_interstitial_url": "https://google.com"
 }
