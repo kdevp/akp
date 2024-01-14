@@ -71,7 +71,7 @@
   "customAdUrl": "",
   "local_banner_ad": "https://channelmyanmar.org/wp-content/uploads/2023/08/USUN789.gif",
   "local_banner_ad_url": "",
-  "local_banner_4dtail": "https://github.com/kdevp/files/raw/main/1000x500%20gif.gif",
-  "local_banner_4dtail_url": "",
+  "detail_banner": "https://github.com/kdevp/files/raw/main/1000x500%20gif.gif",
+  "detail_banner_url": "",
   "local_interstitial_url": "https://google.com"
 }
