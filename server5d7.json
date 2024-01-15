@@ -64,7 +64,8 @@
   "reqIP": "https://api.myip.com",
   "bannedCC": "AI",
   "serverKey": "AAAAGsEiXlg:APA91bHePE1Kq4rMOKV_8vTWaM5f8kx8mcrmdMtBND0lVpkw0tz90sB2-_HNezkTtnpy9ZzTC2vKG9_0eKv30FSqXvzmYfRpZwC_BcoMLhqlM05W29auYylMhrIlTZab7dSE5Gq5_PZQ",
-  "vip_image": "",
+  "vip_image": "https://telegra.ph/file/c87943ba92bab7926c295.jpg",
+  "vip_ads": "",
   "vip_features": "-ကြော်ညာမပါ\n-ဇာတ်ကားအကုန်ကြည့်ရ ဒေါင်းလုတ်ဆွဲ၍ရ",
   "vip_users": "https://raw.githubusercontent.com/kdevp/akp/main/vip.json",
   "customAdThumbnail": "https://channelmyanmar.org/wp-content/uploads/2023/08/USUN789.gif",
@@ -81,6 +82,4 @@
   "botApi": "6859608513:AAGKy7_hg7g8zIyPSOA9a9SSSRzMsk7fj0g",
   "chatId":"@kklogz",
   "countActiveUsers": false,
-  "vip_image": "https://telegra.ph/file/c87943ba92bab7926c295.jpg",
-  "vip_ads": ""
 }
