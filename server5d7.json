@@ -81,5 +81,10 @@
   "rate": "",
   "botApi": "6859608513:AAGKy7_hg7g8zIyPSOA9a9SSSRzMsk7fj0g",
   "chatId":"@kklogz",
-  "countActiveUsers": false
+  "countActiveUsers": false,
+  "player": {
+    "logo": "",
+    "redirect": "",
+    "marquee": "aide နဲ့ build လုပ်ပြီးရင် signature v1 နဲ့ဖဲ sign လုပ်တာ ကြောင့် install လုပ်ပြီးဖွင့်မရတာတွေ aab ထုတ်မရတာတွေ \nအတွက် aide version အသစ်တစ်ခုတင်ပေးပါမယ်.. gradle 8 support လုပ်ပါမယ်. Aide user အားလုံး လာမည့် version ကိုပြောင်းသုံးဖို့အကြံပြုပါတယ်.."
+  }
 }
