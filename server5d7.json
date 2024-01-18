@@ -51,7 +51,7 @@
   "hg3server": "https://github.com/kdevp/akp/raw/main/vipmv.json",
   "hg4title": "Movies",
   "ishg4visible": true,
-  "hg4server": "https://github.com/kdevp/akp/raw/main/hmovies.json",
+  "hg4server": "https://github.com/kdevp/akp/raw/main/movies19012024.json",
   "gamelist": "https://github.com/PharaohMod/AllKar-Pro/raw/main/games",
   "updatifyApi": "https://nerbly.com/updatify/apiv1/files/AKP_947907917_ZCFoGIm8hLW75kB7rgEnOwadqCr1.json",
   "showUpdatify": false,
@@ -81,7 +81,7 @@
   "share_link": "",
   "rate": "",
   "botApi": "6859608513:AAGKy7_hg7g8zIyPSOA9a9SSSRzMsk7fj0g",
-  "chatId":"@debuglogz",
+  "chatId":"@kklogz",
   "countActiveUsers": false,
   "player": {
     "logo": "",
